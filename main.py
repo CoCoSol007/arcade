@@ -2,6 +2,7 @@
 
 import os
 
+# Getting the path of the current file.
 path = os.path.dirname(__file__)
 
 
