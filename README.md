@@ -1,6 +1,7 @@
 ## Arcade
 
 Arcade is a litle retro game made with python and pygame. 
+We made this game in 2021
 
 ## Instalation
 
